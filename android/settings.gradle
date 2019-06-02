@@ -1,0 +1,3 @@
+rootProject.name = 'gtg_funding_4121'
+
+include ':app'

@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT gtg_funding_4121.wsgi:application
